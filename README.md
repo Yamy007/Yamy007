@@ -30,7 +30,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@yamy19007-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/yamy19007)
 
-![Snake animation](https://raw.githubusercontent.com/{Yamy007}/{Yamy007}/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
